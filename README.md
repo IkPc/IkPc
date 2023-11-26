@@ -1,10 +1,12 @@
 ### Hi there 👋
 ### Olá 👋
 
+
 - 🔭 I’m currently working on <b>Myself</b><br />
 - 🔭 Estou atualmente trabalhando em <b>Mim mesmo</b><br />
 - 🌱 I’m currently learning:
 - 🌱 Estou atualmente aprendendo:
+
 <ul>
   <b>
     <li>JavaScript;</li>
