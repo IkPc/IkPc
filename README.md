@@ -7,7 +7,7 @@
 </div><br />
 <div>
   - 🌱 I’m currently learning: <br />
-  - 🌱 Estou atualmente aprendendo: <br />
+  - 🌱 Estou atualmente aprendendo:
 </div>
 <ul>
   <b>
