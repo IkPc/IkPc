@@ -1,5 +1,4 @@
-### Hi there 👋
-### Olá 👋
+### Hi there / Olá👋
 
 - 🌱 Learning / Aprendendo: **JavaScript, React, HTML, CSS**<br />
 - 👯 Looking to collaborate on projects for hands-on experience / **Procurando colaborar em projetos para adquirir experiência prática**<br />
