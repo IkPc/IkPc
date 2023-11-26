@@ -8,7 +8,7 @@
 <div>
   - 🌱 I’m currently learning: <br />
   - 🌱 Estou atualmente aprendendo: <br />
-</div><br />
+</div>
 <ul>
   <b>
     <li>JavaScript;</li>
