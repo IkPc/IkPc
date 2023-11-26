@@ -3,10 +3,10 @@
 
 <div>
   - 🔭 I’m currently working on <b>Myself</b><br />
-  - 🔭 Estou atualmente trabalhando em <b>Mim mesmo</b><br />
+  - 🔭 Estou atualmente trabalhando em <b>Mim mesmo</b><br /><br />
   - 🌱 I’m currently learning: <br />
   - 🌱 Estou atualmente aprendendo: <br />
-</div>
+</div><br />
 <ul>
   <b>
     <li>JavaScript;</li>
