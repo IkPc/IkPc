@@ -23,8 +23,8 @@
 - 🤔 Estou buscando ajuda com <b>Aprendizado</b>, <i>quero ser estagiário para aprender mais sobre no que devo trabalhar para me tornar uma versão melhor de mim mesmo, não apenas pessoalmente, mas também profissionalmente.</i><br /><br />
 - 💬 Ask me about <b>My goals</b><br />
 - 💬 Me pergunte sobre <b>Meus objetivos</b><br /><br />
-- 📫 How to reach me: <i>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pabllo-cristian-ferreira-de-lima-712b5224b/). I welcome networking and professional discussions.</i><br />
-- 📫 Como entrar em contato comigo: <i>Sinta-se a vontade para se conectar comigo no <a href="https://www.linkedin.com/in/pabllo-cristian-ferreira-de-lima-712b5224b/"><u>Linkedin</u></a>). Estou aberto a networking e discussões profissionais.</i><br /><br />
+- 📫 How to reach me: <i>Feel free to connect with me on <a href="https://www.linkedin.com/in/pabllo-cristian-ferreira-de-lima-712b5224b/"><u>Linkedin</u></a>. I welcome networking and professional discussions.</i><br />
+- 📫 Como entrar em contato comigo: <i>Sinta-se a vontade para se conectar comigo no <a href="https://www.linkedin.com/in/pabllo-cristian-ferreira-de-lima-712b5224b/"><u>Linkedin</u></a>. Estou aberto a networking e discussões profissionais.</i><br /><br />
 - 😄 Pronouns: <b>He/Him</b><br />
 - 😄 Pronomes: <b>Ele/Dele</b><br /><br />
 - 🚀 Insightful Tidbit: <b>I have a natural inclination for resolving logical challenges.</b> <i>Also, for learning, I experience a sense of fulfillment when I observe my progress.</i><br />
