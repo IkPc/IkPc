@@ -4,8 +4,8 @@
 <div>
   - 🔭 I’m currently working on <b>Myself</b><br />
   - 🔭 Estou atualmente trabalhando em <b>Mim mesmo</b><br />
-  - 🌱 I’m currently learning:<br />
-  - 🌱 Estou atualmente aprendendo:
+  - 🌱 I’m currently learning: <br />
+  - 🌱 Estou atualmente aprendendo: <br />
 </div>
 <ul>
   <b>
