@@ -5,6 +5,6 @@
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
-### Contact
+### Contact me:
 [![My contacts](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pabllo-cristian-ferreira-de-lima-712b5224b/)[![My contacts](https://skillicons.dev/icons?i=gmail)](mailto:pabllo.dev@gmail.com)
 
