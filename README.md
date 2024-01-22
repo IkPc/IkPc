@@ -7,5 +7,3 @@
 
 ### Contact me:
 [![My contacts](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pabllo-cristian-ferreira-de-lima-712b5224b/)ﾠ[![My contacts](https://skillicons.dev/icons?i=gmail)](mailto:pabllo.dev@gmail.com)
-
-![Snake animation](https://github.com/IkPc/IkPc/blob/output/github-contribution-grid-snake.svg)
