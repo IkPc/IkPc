@@ -1,5 +1,5 @@
 ## <pre> alert(`` ` ``Hello, ${Person}!`` ` ``); </pre>
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="left" width="300px"> &emsp;<b>Hi, I'm _Pabllo Cristian_, eager to dive into the world of _Web Development_. Passionate about<br />&emsp;learning, particularly I enjoy mastering JavaScript and React. I thrive as a hands-on learner,<br />&emsp;always seeking exciting project ideas and valuable experiences.</b>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="left" width="300px"> &emsp;<b>Hi, I'm _Pabllo Cristian_, eager to dive into the world of _Web Development_.<br />&emsp;Passionate about learning, particularly I enjoy mastering JavaScript and React.<br />&emsp;I thrive as a hands-on learner, always seeking exciting project ideas and valuable experiences.</b>
 
 ### &emsp;Currently Learning/Mastering:
 &emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
