@@ -6,6 +6,3 @@
 
 ### &emsp;Contact Me:
 &emsp;&emsp;[![My contacts](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/pabllo-cristian-ferreira-de-lima-a926062b3)ﾠ[![My contacts](https://skillicons.dev/icons?i=gmail)](mailto:pabllo.dev@gmail.com)
-<br /><br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IkPc&theme=dark&card_width=950)](https://git.io/streak-stats)
