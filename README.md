@@ -8,8 +8,14 @@
 &emsp;&emsp;[![My contacts](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pabllo-cristian-f-a926062b3)ﾠ[![My contacts](https://skillicons.dev/icons?i=gmail)](mailto:pabllo.dev@gmail.com)
 
 <a href="https://github.com/IkPc/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=tokyonight&card_width=280" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=tokyonight&card_width=320" />
 </a>
 <a href="https://github.com/IkPc/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&size_weight=0.5&count_weight=0.5&layout=donut&card_width=280&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&theme=tokyonight" />
+</a><br/>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=portfolio&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=Curriculum-Vitae&theme=tokyonight" />
 </a>
