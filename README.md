@@ -6,7 +6,7 @@
 
 ### &emsp; Contact Me 📬
 &emsp;&emsp;[![My contacts](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pabllo-cristian-f-a926062b3)ﾠ[![My contacts](https://skillicons.dev/icons?i=gmail)](mailto:pabllo.dev@gmail.com)
-
+<br/>
 ## 📊 GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=tokyonight" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&layout=compact&theme=tokyonight" /> |
