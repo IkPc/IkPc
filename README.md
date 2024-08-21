@@ -11,5 +11,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/IkPc/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&size_weight=0.5&count_weight=0.5&layout=donut&card_width=300&theme=tokyonight" />
 </a>
