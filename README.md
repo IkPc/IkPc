@@ -10,7 +10,7 @@
 <a href="https://github.com/IkPc/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=tokyonight&card_width=320" />
 </a>
-<a href="https://github.com/IkPc/convoychat">
+<a href="https://github.com/IkPc/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&size_weight=0.5&count_weight=0.5&layout=donut&card_width=320&theme=tokyonight" />
 </a><br/>
 <a href="https://github.com/anuraghazra/convoychat">
