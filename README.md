@@ -13,5 +13,5 @@
 | ------------- | ------------- |
 
 ## 📂 Featured Repositories
-| [![ReadMe Card media="(prefers-color-scheme: dark)"](https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=portfolio&theme=tokyonight)](https://github.com/IkPc/portfolio) [![ReadMe Card media="(prefers-color-scheme: light)"](https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=portfolio&theme=default)](https://github.com/IkPc/portfolio) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=Curriculum-Vitae&theme=tokyonight)](https://github.com/IkPc/Curriculum-Vitae) |
+| [![ReadMe Card media="(prefers-color-scheme: dark)"](https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=portfolio&theme=tokyonight)](https://github.com/IkPc/portfolio) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=Curriculum-Vitae&theme=tokyonight)](https://github.com/IkPc/Curriculum-Vitae) |
 | ------------- | ------------- |
