@@ -9,7 +9,7 @@
 <br/>
 ## 📊 GitHub Stats 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=tokyonight" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&layout=compact&theme=tokyonight" /> |
+| <picture> <source media="(prefers-color-scheme: dark)"  align="center" srcset="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=tokyonight"/><img alt="desc" src="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=default"/></picture> | <picture><source media="(prefers-color-scheme: dark)"  align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&layout=compact&theme=tokyonight"/><img alt="desc" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&layout=compact&theme=default"/> </picture> |
 | ------------- | ------------- |
 
 ## 📂 Featured Repositories
