@@ -7,11 +7,11 @@
 ### &emsp; Contact Me 📬
 &emsp;&emsp;[![My contacts](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pabllo-cristian-f-a926062b3)ﾠ[![My contacts](https://skillicons.dev/icons?i=gmail)](mailto:pabllo.dev@gmail.com)
 <br/>
-## 📊 GitHub Stats 
 
+## 📊 GitHub Stats 
 | <picture> <source media="(prefers-color-scheme: dark)"  align="center" srcset="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=tokyonight"/><img alt="desc" src="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=default"/></picture> | <picture><source media="(prefers-color-scheme: dark)"  align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&layout=compact&theme=tokyonight"/><img alt="desc" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&layout=compact&theme=default"/> </picture> |
 | ------------- | ------------- |
 
 ## 📂 Featured Repositories
-| [![ReadMe Card media="(prefers-color-scheme: dark)"](https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=portfolio&theme=ambient_gradient)](https://github.com/IkPc/portfolio) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=Curriculum-Vitae&theme=ambient_gradient)](https://github.com/IkPc/Curriculum-Vitae) |
+| <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=portfolio&theme=tokyonight"/><img alt="Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=portfolio&theme=default"/></picture> | <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=Curriculum-Vitae&theme=tokyonight"/><img alt="Curriculum Vitae" src="https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=Curriculum-Vitae&theme=default"/></picture> |
 | ------------- | ------------- |
