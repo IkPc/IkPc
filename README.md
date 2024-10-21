@@ -1,5 +1,5 @@
 ## <pre> alert(`` ` ``Hello, ${Person}!`` ` ``); </pre>
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="left" width="330px"> &emsp;&emsp;<b>Hi, I'm _Pabllo Cristian_, eager to dive into the world of _Web Development_.<br />&emsp;&emsp;Passionate about learning, particularly I enjoy mastering JavaScript, ReactJS<br />&emsp;&emsp;and NextJS. I thriveas a hands-on learner, always seeking exciting project<br />&emsp;&emsp;ideas and valuable experiences.</b> - <a href="https://ikpc.github.io/portfolio/"><i>more about me...</i></a>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="left" width="330px"> &emsp;&emsp;<b>Hi, I'm _Pabllo Cristian_, eager to dive into the world of _Web Development_.<br />&emsp;&emsp;Passionate about learning, particularly I enjoy mastering JavaScript, React<br />&emsp;&emsp;and NextJS. I thriveas a hands-on learner, always seeking exciting project<br />&emsp;&emsp;ideas and valuable experiences.</b> - <a href="https://ikpc.github.io/portfolio/"><i>more about me...</i></a>
 
 
 ### &emsp;Currently Learning/Mastering 🔧
