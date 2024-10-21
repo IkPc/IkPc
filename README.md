@@ -7,7 +7,7 @@
 &emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,mysql,vscode)](https://skillicons.dev)
 
 ### &emsp; Contact Me 📬
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pabllo-cristian-f-a926062b3)
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pabllo-cristian-f-a926062b3)
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pabllo.dev@gmail.com)<br/>
 
 ## 📊 GitHub Stats 
