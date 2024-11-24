@@ -11,7 +11,7 @@
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pabllo.dev@gmail.com)<br/>
 
 ## 📊 GitHub Stats 
-| <picture> <source media="(prefers-color-scheme: dark)"  align="center" srcset="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=tokyonight"/><img alt="desc" src="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=default"/></picture> | <picture><source media="(prefers-color-scheme: dark)"  align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&layout=compact&theme=tokyonight"/><img alt="desc" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&layout=compact&theme=default"/> </picture> |
+| <a href="https://github.com/IkPc?tab=repositories"><picture> <source media="(prefers-color-scheme: dark)"  align="center" srcset="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=tokyonight"/><img alt="desc" src="https://github-readme-stats.vercel.app/api?username=IkPc&show_icons=true&theme=default"/></picture></a> | <a href="https://github.com/IkPc?tab=repositories"><picture><source media="(prefers-color-scheme: dark)"  align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&layout=compact&theme=tokyonight"/><img alt="desc" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkPc&layout=compact&theme=default"/> </picture></a> |
 | ------------- | ------------- |
 
 ## 📂 Featured Repositories
