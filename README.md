@@ -3,8 +3,8 @@
 
 
 ### &emsp;Currently Learning/Mastering 🔧
-&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,jest)](https://skillicons.dev)<br/>
-&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,mysql,vscode)](https://skillicons.dev)
+&emsp;&emsp;<a href="https://skillicons.dev" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>&ensp;<a href="https://skillicons.dev" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>&ensp;<a href="https://skillicons.dev" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>&ensp;<a href="https://skillicons.dev" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>&ensp;<a href="https://skillicons.dev" title="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS"/></a>&ensp;<a href="https://skillicons.dev" title="Jest"><img src="https://skillicons.dev/icons?i=jest" alt="Jest"/></a><br/>
+&emsp;&emsp;<a href="https://skillicons.dev" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>&ensp;<a href="https://skillicons.dev" title="Next.js"><img src="https://skillicons.dev/icons?i=next" alt="Next.js"/></a>&ensp;<a href="https://skillicons.dev" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>&ensp;<a href="https://skillicons.dev" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>&ensp;<a href="https://skillicons.dev" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a><br/>
 
 ### &emsp; Contact Me 📬
   &emsp;&emsp;[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pabllo-cristian-f-a926062b3)
