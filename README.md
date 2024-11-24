@@ -3,7 +3,7 @@
 
 
 ### &emsp;Currently Learning/Mastering 🔧
-&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind)](https://skillicons.dev)<br/>
+&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,jest)](https://skillicons.dev)<br/>
 &emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,mysql,vscode)](https://skillicons.dev)
 
 ### &emsp; Contact Me 📬
