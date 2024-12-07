@@ -17,3 +17,4 @@
 ## 📂 Featured Repositories
 | <a href="https://github.com/IkPc/portfolio"><picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=portfolio&theme=tokyonight"/><img alt="Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=portfolio&theme=default"/></picture></a> | <a href="https://github.com/IkPc/Curriculum-Vitae"><picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=Curriculum-Vitae&theme=tokyonight"/><img alt="Curriculum Vitae" src="https://github-readme-stats.vercel.app/api/pin/?username=IkPc&repo=Curriculum-Vitae&theme=default"/></picture></a> |
 | ------------- | ------------- |
+<!--learn design patterns-->
